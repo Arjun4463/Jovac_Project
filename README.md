@@ -1,5 +1,10 @@
  JOVAC  XSS Demo (PHP + MySQL)
 This project demonstrates Reflected and Stored Cross-Site Scripting (XSS) attacks and their mitigation using PHP and MySQL. The goal is to understand how XSS works, how attackers exploit vulnerabilities, and how to secure web applications.
+
+
+
+
+
 📁 Project Structure
 ├── index.php
 ├── db.php
